@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&family=Tektur:wght@400..900&display=swap');
+
+:root {
+    --primary-font: "Tektur", sans-serif;
+    --secondary-font: "Quicksand", cursive;
+    --primary-color:  #A55318; /* Originally #d2691e */
+    --secondary-color: black;
+    --tertiary-color: #e9edf0;
+  }
+
+
+
+nav {
+    #nav {
+        font-family: var(--primary-font);
+    }
+    
+    #nav .navbar-brand {
+        font-size: 2rem;
+        color: var(--tertiary-color);
+    }
+    
+    #nav .navbar-nav .nav-link {
+        font-size: 1.2rem;
+        color: var(--tertiary-color);
+    }
+    
+    #nav .navbar-toggler {
+        color: var(--tertiary-color);
+        background-color: var(--primary-color);
+    }
+    
+    #nav .navbar-toggler-icon {
+        background-color: var(--primary-color);
+    }
+    
+    #nav .navbar-nav .nav-link:hover {
+        color: var(--tertiary-color);
+    }
+    
+    #nav {
+        background-color: var(--primary-color);
+        color: var(--tertiary-color);
+    }
+      
+}
