@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Macondo&display=swap');
+
+/* CSS Variables */
+
+main {
+    flex: 1 0 auto;
+    margin-top: 47px;
+}
+
+/* Header */
+.hero {
+    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.2)), url('../images/South_Coast_03.jpg') left center/cover no-repeat scroll;
+    padding: 8rem 0;
+}
+
+.hero h1 {
+    color: #fff;
+}
+
+.hero p {
+    color: #fff;
+}
+
