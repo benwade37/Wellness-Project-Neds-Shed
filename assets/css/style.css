@@ -31,7 +31,7 @@ main {
 
 /* Header */
 .hero {
-    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.2)), url('assets/css/images/house-coast-cliff-sea-shore-path-grass-plants-cabin-sea-clou-webp') left center/cover no-repeat scroll;
+    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.2)), url("assets/css/images/house-coast-cliff-sea-shore-path-grass-plants-cabin-sea-clou-webp") left center/cover no-repeat scroll;
     padding: 8rem 0;
 }
 
