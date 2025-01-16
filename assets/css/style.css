@@ -9,8 +9,8 @@
   }
 
 
-
-nav {
+/* Navbar */
+navbar {
     #nav {
         font-family: var(--primary-font);
     }
