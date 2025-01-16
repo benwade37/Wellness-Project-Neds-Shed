@@ -28,6 +28,8 @@
 
 .hero h1 {
     color: #fff;
+    font-weight: bold;
+    font-size: 4rem;
 }
 
 .hero p {
