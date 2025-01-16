@@ -3,46 +3,21 @@
 :root {
     --primary-font: "Tektur", sans-serif;
     --secondary-font: "Quicksand", cursive;
-    --primary-color:  #A55318; /* Originally #d2691e */
+    --primary-color:  #A55318; 
     --secondary-color: black;
     --tertiary-color: #e9edf0;
   }
 
 
 /* Navbar */
-navbar {
-    #nav {
-        font-family: var(--primary-font);
-    }
-    
-    #nav .navbar-brand {
-        font-size: 2rem;
-        color: var(--tertiary-color);
-    }
-    
-    #nav .navbar-nav .nav-link {
-        font-size: 1.2rem;
-        color: var(--tertiary-color);
-    }
-    
-    #nav .navbar-toggler {
-        color: var(--tertiary-color);
-        background-color: var(--primary-color);
-    }
-    
-    #nav .navbar-toggler-icon {
-        background-color: var(--primary-color);
-    }
-    
-    #nav .navbar-nav .nav-link:hover {
-        color: var(--tertiary-color);
-    }
-    
-    #nav {
-        background-color: var(--primary-color);
-        color: var(--tertiary-color);
-    }
-      
+
+.navbar {
+    background-color: var(--primary-color);
+    font-family: var(--secondary-color);
+}
+
+#navbar {
+    font-family: var(--secondary-font);
 }
 
 /* Header */
@@ -67,12 +42,8 @@ navbar {
     border: none;
 }
 
-#How it works {
-    background-color: var(--primary-color);
-    color: var(--tertiary-color);
+#howz {
+    color: var(--primary-color);
+    text-align: left;
 }
 
-.icon {
-    width: 48px;
-    height: 48px;   
-}
