@@ -1,4 +1,4 @@
-# Welness-Project
+# Wellness-Project
 Wellness - Ned's Shed
 
 Overview 
