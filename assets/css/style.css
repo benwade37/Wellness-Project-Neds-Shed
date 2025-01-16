@@ -58,3 +58,16 @@ nav {
 .hero p {
     color: #fff;
 }
+
+/*cards*/
+
+.card {
+    background-color: var(--tertiary-color);
+    color: var(--secondary-color);
+    border: none;
+}
+
+#How it works {
+    background-color: var(--primary-color);
+    color: var(--tertiary-color);
+}
