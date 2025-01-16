@@ -71,3 +71,8 @@ navbar {
     background-color: var(--primary-color);
     color: var(--tertiary-color);
 }
+
+.icon {
+    width: 48px;
+    height: 48px;   
+}
