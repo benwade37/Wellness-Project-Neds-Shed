@@ -3,14 +3,14 @@ Wellness - Ned's Shed
 
 Overview 
 
-This is a project to boost awareness of Men's mental health problems and to offer a resources for men afflicted.
+This is a project to boost awareness of Men's mental health problems and to offer a resource for men seeking help.
 It does not delve too deeply into medical diagnosis or causes, but identifies with lonliness and offers access to one of the best 
-medicines available: talking with peers and other men. 
+medicines available: talking. With peers and other men. 
 
 TOV 
 
 The TOV is therefore light, the site was simply to identify with sufferers who need help and offers easy access to a solution. 
-There are links for users to delve much deeper into the issues. This site is about empathy and talking to users on their terms.
+There are links for users to delve much deeper into the issues. This site is empathetic and therefore talking to users on their terms.
 We are not speaking to pschologists or doctors here. It is perhaps a bit matey (and even a bit Cornish with the use of Ned) but that aligns to a lot of NHS comms too. 
 
 What do we want users to do?
