@@ -1,15 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&family=Tektur:wght@400..900&display=swap');
-
+@import url('<link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Macondo&display=swap" rel="stylesheet">');
 :root {
-    --primary-font: "Tektur", sans-serif;
+    --primary-font: "Inconsolata", sans-serif;
     --secondary-font: "Quicksand", cursive;
-    --primary-color:  #A55318; 
+    --primary-color:  hsl(25, 75%, 37%); 
     --secondary-color: black;
-    --tertiary-color: #e9edf0;
+    --tertiary-color: #b7bdd2;
   }
 
 
 /* Navbar */
+
+
 
 .navbar {
     background-color: var(--primary-color);
@@ -17,7 +18,7 @@
 }
 
 #navbar {
-    font-family: var(--secondary-font);
+    font-family: var(--primary-font);
 }
 
 /* Header */
@@ -29,16 +30,30 @@
 .hero h1 {
     color: #fff;
     font-weight: bold;
+    font-family: var(--primary-font);
     font-size: 4rem;
+    margin-bottom: 4rem;
 }
 
 .hero p {
     color: #fff;
 }
 
+#homehead {
+    font-family: var(--primary-font);
+}
+
+/*intro*/
+#intro {
+    background-color: var(--tertiary-color);
+    color: white;
+    padding: 3rem 0;
+}
+
 /*container*/
+
 .container {
-    border: 2px solid #A55318;
+    border: 2px;
     border-color: #A55318;
     padding: 20px;
     border-radius: 10px;
