@@ -79,6 +79,7 @@
 
 #portrait {
     border-radius: 100%;
+    align-items: center;
 }
 
 /*gallery*/
