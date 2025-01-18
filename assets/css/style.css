@@ -29,7 +29,7 @@
     color: #fff;
     font-weight: bold;
     font-family: var(--primary-font);
-    font-size: 4rem;
+    font-size: 5rem;
     margin-bottom: 4rem;
 }
 
@@ -49,6 +49,11 @@
     padding: 3rem 0;
     margin-top: auto;
     font-family: var(--primary-font);
+}
+
+.intro p {
+    font-family: var(--primary-font);
+    font-size: 3rem;
 }
 
 /*container*/
@@ -79,12 +84,19 @@
 
 #portrait {
     border-radius: 100%;
-    align-items: center;
 }
 
-/*gallery*/
+/* Carousel */
+#carouselExampleRide {
+    max-width: 600px; /* Adjust the width as needed */
+    margin: auto; /* Center the carousel */
+}
 
-
+#carouselExampleRide .carousel-inner img {
+    width: 100%; /* Ensure images take the full width of the carousel */
+    height: 800px; /* Adjust the height as needed */
+    object-fit: cover; /* Ensure images cover the container without distortion */
+}
 
 div.desc {
   padding: 15px;
