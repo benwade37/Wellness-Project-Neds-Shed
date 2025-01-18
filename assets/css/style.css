@@ -25,6 +25,8 @@
     padding: 10rem 0;
 }
 
+/* Hero */
+
 .hero h1 {
     color: #fff;
     font-weight: bold;
@@ -105,24 +107,14 @@ div.desc {
 
 /*contact*/
 
-#contact {
-    background-color: var(--primary-color);
-    color: white;
-    padding-bottom: 3rem;
+
+.social-links i {
+    font-size: 2.5rem; /* Increase the font size as needed */
+    transition: color 0.3s ease-in-out;
 }
 
-#contact h2 {
-    color: white;
-}
-
-#contact .sub-heading-color {
-    color: var(--highlight-color-light);
-}
-
-#contact i {
-    color: var(--secondary-color);
-    font-size: 1.2rem;
-    margin-right: 15px;
+.social-links i:hover {
+    color: var(--highlight-color-light); /* Adjust as needed */
 }
 
 #contact .social-links i {
@@ -139,24 +131,32 @@ div.desc {
     background-color: transparent;
 }
 
-/* Hero */
-header#home.header.hero {
-    padding: 50px 0;
-    margin-bottom: 20px;
-    position: relative;
+/* contact */
+
+#contact {
+    background-color: var(--primary-color);
+    padding-bottom: 3rem;
 }
 
-header#home .container-fluid.text-center .row div h1 {
+#contact h2 {
+    color: white;
+}
+
+#contact .sub-heading-color {
+    color: var(--highlight-color-light);
+}
+
+#contact i {
+    background-color: #A55318;
+    color: var(--secondary-color);
+    font-size: 1.2rem;
+    margin-right: 15px;
+}
+
+</* address */
+
+#address {
     font-family: var(--primary-font);
-}
-
-header#home .social-media-box a {
-    margin: 0 10px;
-    color: #fff;
     font-size: 1.5rem;
-    transition: color 0.3s ease-in-out;
-}
-
-header#home .social-media-box a:hover {
     color: var(--primary-color);
-}
+}   
