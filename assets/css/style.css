@@ -92,7 +92,9 @@
 
 #carouselExampleRide {
     max-width: 600px; /* Adjust the width as needed */
+    height; 400px; /* Center the carousel */
     margin: auto; /* Center the carousel */
+    overflow: hidden; /* Hide overflow to prevent size changes */
 }
 
 #carouselExampleRide .carousel-inner img {
