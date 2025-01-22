@@ -193,27 +193,10 @@
 #address {
     background-color: var(--primary-color);
     padding-bottom: 3rem;
-}
-
-#address h2 {
-    color: white;
+    font-family: var(--primary-font);
+    font-size: 1.5rem;
 }
 
 #address .sub-heading-color {
     color: var(--highlight-color-light);
 }
-
-#contact i {
-    background-color: #A55318;
-    color: var(--secondary-color);
-    font-size: 1.2rem;
-    margin-right: 15px;
-}
-
-</* address */
-
-#address {
-    font-family: var(--primary-font);
-    font-size: 1.5rem;
-    color: var(--primary-color);
-}   
