@@ -19,6 +19,19 @@ We want to enable users to simply find a support group of other men in their are
 
 Initially at this stage, the users will have fill out a form to access the services. Later on in new phase, the plan is to make the network more acccessible. 
 
-Notes: 2nd and 3rd pages are not implimented at this stage. There are going to be devoped later, a wireframe of the user journey and layout is provided below. 
+Notes: 2nd and 3rd pages are not implimented at this stage - this has affected testing.  There are going to be devoped later, a wireframe of the user journey and layout is provided below. 
 
 [Ned's Shed .pdf](https://github.com/user-attachments/files/18437525/Ned.s.Shed.pdf)
+
+Deployment
+
+The project was initially built using boiler plate on VS Code. The repository is hosted on GitHub, aswell as the project board. 
+
+The website is also deployed directly from the Main branch of the GitHub repository, ensuring seamless updates and easy accessibility for users.
+
+https://benwade37.github.io/Welness-Project/
+
+To Do:
+
+I am still fitting in some missing code to enable features to work such as the form and the carousel and layout tidy ups. 
+As I'm trying to keep up with CI KPis, this will be done on an adhoc basis. Hopefully completed by the 26th Jan. 
