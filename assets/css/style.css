@@ -1,7 +1,7 @@
 @import url('<link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Macondo&display=swap" rel="stylesheet">');
 :root {
     --primary-font: "Inconsolata", sans-serif;
-    --secondary-font: "Quicksand", cursive;
+    --secondary-font: "Fraunces", cursive;
     --primary-color:  hsl(25, 75%, 37%); 
     --secondary-color: black;
     --tertiary-color: #b7bdd2;
