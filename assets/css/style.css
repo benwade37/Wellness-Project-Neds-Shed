@@ -1,4 +1,6 @@
-@import url('<link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Macondo&display=swap" rel="stylesheet">');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Macondo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&display=swap');
+
 :root {
     --primary-font: "Inconsolata", sans-serif;
     --secondary-font: "Fraunces", cursive;
@@ -53,9 +55,9 @@
     font-family: var(--primary-font);
 }
 
-.intro p {
+#intro-p {
     font-family: var(--primary-font);
-    font-size: 3rem;
+    font-size: 1.15rem;
 }
 
 /*container*/
@@ -147,7 +149,8 @@
 }
 
 #links .row {
-    margin-bottom: 20px; /* Add margin to the bottom of the row */
+    margin-bottom: 20px;
+    margin-top: 20px; /* Add margin to the bottom of the row */
 }
 
 #links img {
@@ -195,6 +198,7 @@
     padding-bottom: 3rem;
     font-family: var(--primary-font);
     font-size: 1.5rem;
+    margin-top: 30px;
 }
 
 #address .sub-heading-color {
