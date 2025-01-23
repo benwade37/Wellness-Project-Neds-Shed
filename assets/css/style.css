@@ -153,6 +153,13 @@
     margin-top: 20px; /* Add margin to the bottom of the row */
 }
 
+#links .col-md-4 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end; /* Align items to the bottom */
+    align-items: center; /* Center items horizontally */
+}
+
 #links img {
     margin-bottom: 10px; /* Add margin to the bottom of the images */
 }
@@ -196,9 +203,9 @@
 #address {
     background-color: var(--primary-color);
     padding-bottom: 3rem;
-    font-family: var(--primary-font);
-    font-size: 1.5rem;
-    margin-top: 30px;
+    padding-top: 3rem;
+    font-family: var(--secondary-font);
+    font-size: 1rem;
 }
 
 #address .sub-heading-color {
