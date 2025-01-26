@@ -14,11 +14,11 @@
 
 .navbar {
     background-color: var(--primary-color);
-    font-family: var(--secondary-color);
 }
 
 #navbar {
     font-family: var(--primary-font);
+    color: white;
 }
 
 /* Header */
