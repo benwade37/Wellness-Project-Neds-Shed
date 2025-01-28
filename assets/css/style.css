@@ -27,6 +27,12 @@
     padding: 10rem 0;
 }
 
+@media (max-width: 767px) {
+    .hero {
+        padding: 10px 0; /* Reduce padding for mobile */
+    }
+}
+
 /* Hero */
 
 .hero h1 {
