@@ -29,8 +29,7 @@ The project was initially built using boiler plate on VS Code. The repository is
 
 The website is also deployed directly from the Main branch of the GitHub repository, ensuring seamless updates and easy accessibility for users.
 
-https://benwade37.github.io/Welness-Project/
-
+https://benwade37.github.io/Wellness-Project-Neds-Shed/
 To Do:
 
 I am still fitting in some missing code to enable features to work such as the form and the carousel and layout tidy ups. 
