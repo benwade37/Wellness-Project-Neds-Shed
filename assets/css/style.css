@@ -41,11 +41,24 @@
 /* Media query for mobile devices */
 @media (max-width: 767px) {
     .navbar-collapse {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+ /* Styles for extra-small screens */
+@media (max-width: 576px) {
+    .navbar-collapse {
         display: flex !important;
         flex-direction: column;
         align-items: center;
     }
 }
+
+/* Remove conflicting styles */
+/*.navbar-collapse {
+    display: none; /* Remove this if present 
+} */
 
 /* Header */
 .hero {
