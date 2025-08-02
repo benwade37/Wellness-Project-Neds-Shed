@@ -3,6 +3,8 @@ Wellness - Ned's Shed
 
 Overview 
 
+![site on various devices](assets/images/Screenshot%202025-08-01%20at%2016.20.18.png)
+
 This is a project to boost awareness of Men's mental health problems and to offer a resource for men seeking help.
 It does not delve too deeply into medical diagnosis or causes, but identifies with lonliness and offers access to one of the best 
 medicines available: talking. With peers and other men. 
